@@ -4,13 +4,11 @@
 
 ---
 
-<img align="right" alt="Coding" width="300" height="270" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+<img align="right" alt="Coding" width="300" height="270" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif">
 
 - 🌱 I’m currently learning **Data Analysis**
 
 - 💬 Ask me about **Power BI**
-
-- 👀 I’m interested in **Believer in lifelong learning currently exploring data analysis, testing, and the beauty of minimalistic design.**
 
 - 📫 How to reach me **oshiniw01@gmail.com**
 
@@ -19,6 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/oshiniw/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/oshiniw/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/__.oshi.ii__/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/__.oshi.ii__/#" height="30" width="40" /></a>
 </p>
 
 ---
