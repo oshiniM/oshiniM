@@ -4,7 +4,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="300" height="270" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif">
+<img align="right" alt="Coding" width="300" height="265" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif">
 
 - 🌱 I’m currently learning **Data Analysis**
 
