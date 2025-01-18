@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Power BI**
 
-- 📫 How to reach me **oshiniw01@gmail.com**
+- 📫 How to reach me **oshiniwijewickrama01@gmail.com**
 
 - ⚡ Fun fact **I believe every bug has a purpose—sometimes, it’s just to remind me to take a snack break.**
 
