@@ -1,14 +1,18 @@
 <h1 align="center">Hi 👋, I'm Oshini Wijewickrama</h1>
-<h3 align="center">Committed to learning, building, and sharing to make technology accessible for all</h3>
+<h3 align="center">Committed to Learning, Building, and Sharing to make technology accessible for All</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=oshinim&label=Profile%20views&color=0e75b6&style=flat" alt="oshinim" /> </p>
 
 ---
 
 <img align="right" alt="Coding" width="290" height="250" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif">
 
-- 🌱 I’m currently learning **Data Analysis**
+- 🚀 Passionate about building scalable applications and mastering full-stack development
 
-- 💬 Ask me about **Power BI**
+- 🌱 Currently diving deep into Frontend with React & Backend with .NET Web API
+
+- 💬 Ask me about **React and .NET Web API**
+
+- 💻 Exploring Software Engineering with a focus on Full-Stack Development, and QA 
 
 - 📫 How to reach me **oshiniwijewickrama01@gmail.com**
 
